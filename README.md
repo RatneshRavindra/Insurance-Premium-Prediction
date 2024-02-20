@@ -1,5 +1,4 @@
 # [Insurance Premium Prediction](https://insurancepremiumpredictor.herokuapp.com/)
-This project is a part of internship at iNeuron https://ineuronvision.com/
 
 ## Project Objective
 
